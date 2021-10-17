@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThienJA
+- 👋 Hi, I’m Thien
 - 👀 I’m interested in coding/programming
 - 🌱 I’m currently learning the fundamental of coding/programming
 - 💞️ I’m looking to collaborate on N/A
